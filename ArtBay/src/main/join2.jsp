@@ -7,7 +7,7 @@
 <title>회원가입</title>
 </head>
 <body>
-<h1>회원가입</h1>
+<h1>회원가입2ㅁㄴㅇㄻㄴㅇㄻㄴㅇㄹ</h1>
 <div id='join'>
 <form name='frm_join' method='post'>
 	<h5>본인인증</h5>
